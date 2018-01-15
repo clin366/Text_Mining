@@ -1,0 +1,10 @@
+There are three problems in this project.
+
+Problem 1.
+BUild a recommender for the movielens 100K ratings dataset
+
+Problem 2.
+Build a convolutional autoencoder for the MNIST dataset
+
+Problem 3.
+Classify the imagenet collections via three vectorization methods.
