@@ -1,0 +1,9 @@
+To analyze the movie review dataset, we'll reproduce the following steps:
+
+1. Processing text to create design matrices
+
+2. Feature space similarity experiment
+
+3. Classification Experiment
+
+4. Learning Curve Experiment 
